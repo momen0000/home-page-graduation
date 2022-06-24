@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="button">Button</string>
+    <string name="electrician">electrician</string>
+    <string name="sewing">sewing</string>
+    <string name="carpentry">carpentry</string>
+    <string name="all_service">جميع الخدمات</string>
+    <string name="photography">photography</string>
+    <string name="photogrphy">photogrphy</string>
+    <string name="car_mechanic">car mechanic</string>
+    <string name="dentists">dentist</string>
+    <string name="dentistrys">dentistry</string>
+    <string name="car_mechanics">car mechanic</string>
+    <string name="plumper">plumper</string>
+    <string name="plumbing">plump</string>
+    <string name="nursing">nursing</string>
+    <string name="physical_therapy">physical therapy</string>
+    <string name="plummbing">plumbing</string>
+    <string name="teaching">teaching</string>
+    <string name="butcher">butcher</string>
+    <string name="hvac_sevice">hvac sevice</string>
+    <string name="title_activity_profile">profile</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
