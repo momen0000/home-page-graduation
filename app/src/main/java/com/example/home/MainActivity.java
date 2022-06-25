@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
        // profile_activity edite text
 
 
@@ -42,8 +41,19 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
             }
+
+
+
+
+
+
+
+
+
+
+
+
             };
 
 
